@@ -22,6 +22,7 @@ raco new --list
 ```
 to see all available templates.
 
+You can also see list of [racket-templates 'public-templates']((https://github.com/search?q=org%3Aracket-templates+topic%3Apublic-template&type=repositories) on GitHub.
 
 ## Install a template and get started
 
